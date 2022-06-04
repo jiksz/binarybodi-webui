@@ -6,7 +6,7 @@ frontend:
         - yarn install
     build:
       commands:
-        - yarn dev
+        - yarn start
   artifacts:
     baseDirectory: .next
     files:
