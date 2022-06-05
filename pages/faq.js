@@ -6,7 +6,7 @@ export default function Home() {
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
 
 <Head>
-                <title>Binary Bodi</title>
+                <title>FAQ | Binary Bodi</title>
                 <link rel="icon" href="/images/favicon-32x32.png" />
                 <meta property="og:title" content="BinaryBodi"  key="ogtitle" />
                 <meta property="og:description" content="Curated collection of 7777 Bodi NFTs on Ethereum" key="ogdesc" />
@@ -45,23 +45,9 @@ export default function Home() {
                   <img className="lg:w-1/2 w-3/4" img src="images/419.svg" alt="" width="350px" className="feature-image"/>
             </div>
             </div>
-            <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-          <div className="lg:w-/2 w-/4"><br></br>
-               <p className="text-blau Montserrat-Light text-2xl"> What is IRL- RPG means ?
-                    </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> In Real Life Role Playing Game is a kind of game which
-                    </p>
-                    </div>
-                  </div>
+        
                   
-       <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-          <div className="lg:w-/2 w-/4">
-               <p className="text-blau Montserrat-Light text-2xl"> How many chapters are in total ? ?
-                    </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> There are Seven chapters in total as of now. 
-                    </p>
-                    </div>
-                  </div>
+     
                      <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
           <div className="lg:w-/2 w-/4">
                <p className="text-blau Montserrat-Light text-2xl"> Is RPG comics physically redeemable ?
@@ -76,6 +62,14 @@ export default function Home() {
                     </p>
                      <p className="text-xl text-white my-6  Poppitandfinch"> 
 As NFT-based, digital cum physical short comics role playing game with a background of generative art, universal dynamics and game theory. Uncovering the truth behind the life exsistence through a set of chapters and stories  boosted with immense gameplay and characters.  Learn, Play and Explore with fellow degens together.
+                    </p>
+                    </div>
+                  </div>
+                  <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
+          <div className="lg:w-/2 w-/4"><br></br>
+               <p className="text-blau Montserrat-Light text-2xl"> What is IRL- RPG means ?
+                    </p>
+                     <p className="text-xl text-white my-6  Poppitandfinch"> In Real Life Role Playing Game is a kind of game which
                     </p>
                     </div>
                   </div>
@@ -111,57 +105,9 @@ As NFT-based, digital cum physical short comics role playing game with a backgro
                     </p>
                     </div>
                   </div>
-                     <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-          <div className="lg:w-/2 w-/4">
-               <p className="text-blau Montserrat-Light text-2xl"> When does Syndicate Pass minting starts?
-                    </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> 8 June 2022
-                    </p>
-                    </div>
-                  </div>
-                      <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-          <div className="lg:w-/2 w-/4">
-               <p className="text-blau Montserrat-Light text-2xl"> Max mint per wallet.
-                    </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> 20 syndicate pass per wallet.
-                    </p>
-                    </div>
-                  </div>
-                     <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-          <div className="lg:w-/2 w-/4">
-               <p className="text-blau Montserrat-Light text-2xl"> How much is the minting cost ?
-                    </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> 0.077 ETH
-                    </p>
-                    </div>
-                  </div>
-                     <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-          <div className="lg:w-/2 w-/4">
-               <p className="text-blau Montserrat-Light text-2xl"> Token allocation
-                    </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> 777 Syndicate pass will be airdropped to random degens
-                  
-                    </p>
-                    </div>
-                  </div>
-                   <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-          <div className="lg:w-/2 w-/4">
-               <p className="text-blau Montserrat-Light text-2xl"> How much is the supply of Syndicate Pass?
-                    </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> 7777 Syndicate Pass will ever exist.
                  
-                    </p>
-                    </div>
-                  </div>
-  <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-          <div className="lg:w-/2 w-/4">
-               <p className="text-blau Montserrat-Light text-2xl"> How much is the supply of Binary Bodi Chapter#1 ?
-                    </p>
-                     <p className="text-xl text-white my-6  Poppitandfinch"> 11000
-                    
-                    </p>
-                    </div>
-                  </div>
+       
+ 
                 </div>
                 </div>
                 <div className="flex items-center justify-between w-full border-b-2	pb-6">
