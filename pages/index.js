@@ -9,7 +9,7 @@ export default function Home() {
                 <meta property="og:description" content="Curated collection of 7777 Bodi NFTs on Ethereum" key="ogdesc" />
                 <meta property="og:type" content="website" key="ogtype" />
                 <meta property="og:url" content="https://binarybodi.xyz" key="ogurl"/>
-                <meta property="og:site_name" content="https://binarybodi.xyz" key="ogsitename" />
+                <meta property="og:site_name" content="https://binarybodi.xy" key="ogsitename" />
                 <meta name="twitter:card" content="summary_large_image" key="twcard"/>
                 <meta property="twitter:domain" content="BinaryBodi" key="twdomain" />
                 <meta property="twitter:url" content="https://binarybodi.xyz" key="twurl" />
@@ -22,76 +22,99 @@ export default function Home() {
               <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
                 <a href="/home" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Home</a>
                 <a href="/mint" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Mint</a>
-                <a href="/bodi" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Bodi</a>
-                <a href="/gameplay" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Gameplay</a>
+                <a href="/bodi" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Genesis</a>
+                <a href="/chapters" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Oracles</a>
                 <a href="faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
                 <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
                 <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
               </nav>
             </div>
           </div>
-          <div className="md:w-2/3 w-4/5 " id="about">
-           <div className="mt-6 border-b-2 py-6">
+  <div className="md:w-2/3 w-4/5 " id="about">
+          <div className="mt-6 border-b-2 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
-              <div className="lg:w-1/2 w-3/4">
-                <h1 className="text-6xl montserrat text-blau ">Binary Bodi</h1>
-                  <p className="text-2xl text-white my-6  Poppitandfinch">An Experimental IRL-RPG Comics Involving An Alchemy Of Universal Dynamics, Generative Art And Game Theory.</p>
+                  <div className="lg:w-1/2 w-3/4">
+                    <h1 className="text-6xl montserrat text-blau ">Binary Bodi</h1>
+                    <p className="text-2xl text-white my-6  Poppitandfinch">An Experimental IRL-RPG Comics Suite Involving An Alchemy Of Universal Dynamics, Generative Art And Game Theory.</p>
                   </div>
-                  <img className="lg:w-1/2 w-3/4" img src="images/4.png" alt="" width="350px" className="feature-image"/>
+                  <div className="border-4 border-blue-300 p-4"><img src="images/4.png" alt="" width="300px" className="feature-image"/></div>
+                 
             </div>
             </div>
                 <div id="traits" className="flex flex-wrap justify-around items-center  mx-6 py-6">
-                  <div className="border-4 border-blue-300 p-4"><img src="images/gif1.gif" alt="" width="300px" className="feature-image"/></div>
+                  <div className="border-4 border-blue-300 p-4"><img src="images/b100.png" alt="" width="300px" className="feature-image"/></div>
                   <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
                     <h1 className="text-blau montserrat text-6xl text-center">Bodi</h1>
-                    <p className="text-xl text-white my-6  Poppitandfinch"> Bodi is the protagonist who is  conscious association of galactic entities from a distant solar system, millions of light years away on a  mission to awaken humans from this simulation.  </p>
+                    <p className="text-2xl text-white my-6  Poppitandfinch"> Bodi means Awakened One, Conscious association of galatic entities guarding the universe. Hailing from a distant metaverse, millions of light years ahead on a mission to awaken humans from Simulation.
+ </p>
                   </div>
                 </div>
+                <div id="gallery" className=" mx-6 py-6">
+              
                 <div className="mt-6 border-b-2 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
-              <div className="lg:w-1/2 w-3/4">
-                <h1 className="text-6xl montserrat text-blau ">RPG Comics</h1>
-                  <p className="text-2xl text-white my-6  Poppitandfinch"> The Bodi RPG is about imagining, building, and exploring fictional worlds. It shows you how to find inspiration and collaboratively build a world with your friends.</p>
+                  <div className="sm:w-1/2 w-3/4">
+                    <h1 className="text-4xl montserrat text-blau ">Press Syndicate  </h1>
+                    <p className="text-2xl text-white my-6  Poppitandfinch">
+                    The Metaverse  Press Syndicate also  known as Underground Press Syndicate (UPS), is a network of countercultural newspapers and magazines.
+</p><h1 className="text-xxl montserrat text-blau ">Counterculture News, Stories, Critisism and Memes </h1>
+                    <p className="text-2xl text-white my-6  Poppitandfinch"><br/>‍
+                   </p>
+                   </div>
+                   <div className="border-4 border-blue-300 p-4"><img src="images/oracle.png" alt="" width="300px" className="feature-image"/></div>
+                 
+            </div>
+           
                   </div>
-                  <img className="lg:w-1/2 w-3/4" img src="images/18.png" alt="" width="350px" className="feature-image"/>
-            </div>
-            </div>
-
-                <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
+                </div>           
+                <div id="traits" className="flex flex-wrap lg:flex-nowrap ">
                 <div className="lg:w-/2 w-/4">
-                     <p className="text-blau Montserrat-Light text-6xl">Bodi pfp : Beyond  NFT</p>
-                     <p className="text-xl text-white my-6  Poppitandfinch">Bodi is purpose-built to foster creating dynamic, custom Settings that passess contains all the rhizomes of reality comprising the transcendental mutivereses . You can work together to create a world that interests all of you, one that gives you a context for rich stories.. Each Binary Bodis excludes all others- at any given time there is only one binarybodi having its full content, rather than a superimposition of multiple features; each feature has a defenite borders- ceratains things can be explained and other cannot; each feature has a particular spatial and temporal grain, it flows at a particluar wave. </p>
-                   </div>
-                <p className="text-blau Montserrat-Light text-2xl"> “An attempt to shape the future of Gen Z Meta society via cultural, social and linguistic multiverses."</p>
-                    <div className="mt-6 border-b-2 py-6">
-                 </div>
+                     <p className="text-blau Montserrat-Light text-5xl">The Oracle of Binary Bodi </p>
+                     <p className="text-2xl text-white my-6  Poppitandfinch">The publications will be an experimental mutligradient design with highly spiritual content and were graphically sophisticated and adventuresome  with intutive user expereinece and immense gameplay.The Oracle's articles, interviews, letters, commentary, and poems explored altered  consciousness in a variety of ways.
+
+ 
+<br></br>
+</p>
+                  
+         </div>
+                    <div className="mt-6 border-b-2 py-6">  
+          
                      <p className="text-xl text-white my-6  Poppitandfinch"> </p>
-                    </div>
-                    <div id="traits" className="flex flex-wrap justify-around items-center  mx-6 py-6">
-                  <div className="border-4 border-blue-300 p-4"><img src="images/22.png" alt="" width="300px" className="feature-image"/></div>
-                  <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
-                  <p className="text-blau Montserrat-Light text-3xl">Cybernetic Models</p>
-                    <p className="text-xl text-white my-6  Poppitandfinch">Conscious cybernetic models  </p>
-                    <p className="text-blau Montserrat-Light text-3xl"> P2E Storytelling </p>
-                    <p className="text-xl text-white my-6  Poppitandfinch">Player driven economy , a classless combat system, and scarce, tradable cosmetic collectibles</p>               
-                    <p className="text-blau Montserrat-Light text-3xl"> Syndicate Pass </p>
-                    <p className="text-xl text-white my-6  Poppitandfinch"> Acts as reservations system, Providing comeplete access to the holders to redeem all future drops and messages at free of cost. </p>
-                    <p className="text-blau Montserrat-Light text-3xl">Culture of Degen Society </p>
-                    <p className="text-xl text-white my-6  Poppitandfinch"> Shaping the culture of Degen society </p>          
                    </div>
-                </div>                 
+                   </div>
+                   
+                    <div id="traits" className="flex flex-wrap justify-around items-center  mx-6 py-6">
+                  <div className="border-4 border-blue-300 p-4"><img src="images/full.png" alt="" width="300px" className="feature-image"/></div>
+                  <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
+                  <p className="text-blau Montserrat-Light text-3xl">Metaverse Press Syndicate </p>
+                    <p className="text-2xl text-white my-6  Poppitandfinch">A network of countercultural newspapers and magazines </p>
+                    <p className="text-blau Montserrat-Light text-3xl"> Counterculture in social vaccum</p>
+                    <p className="text-2xl text-white my-6  Poppitandfinch"> Radical politics, rock music, arts and progressive culture 
+</p>             
+                    <p className="text-blau Montserrat-Light text-3xl">Chaos Magik</p>
+                    <p className="text-2xl text-white my-6  Poppitandfinch">Magical practices & new age religious movement</p>
+                   </div>
+                   </div>
+                   
+                   <div className="mt-6 border-b-2 py-6">  
+          
+          <p className="text-xl text-white my-6  Poppitandfinch"> </p>
+        </div>        
         </div>       
-        <div className="md:w-2/3 w-4/5 " id="about">
+       
+        <div className="sm:w-1/2 w-4/5 py-6 " id="about">
           <div className="mt-6 border-b-2 py-6">
-          <div className="flex flex-wrap  items-center mx-6   py-6 ">     
+          <div className="flex flex-wrap  items-center mx-6   py-6 ">   
+           
             <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
               <br></br>
            <div className="lg:w-/2 w-/4">
                      <p className="text-blau Montserrat-Light text-6xl"> Art and the Spirit</p>
-                     <p className="text-xl text-white my-6  Poppitandfinch">Every Bodi excludes all others- at any given time there is only one binarybodi having its full content, rather than a superimposition of multiple features; each feature has a defenite borders- ceratains things can be explained and other cannot; each feature has a particular spatial and temporal grain, it flows at a particluar wave.
-.<br></br><br></br>Each Bodi is unique and programmatically generated from over 15 layers, including expression, headwear, clothing, and more. They are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS. There will only ever exist 7777 Binary Bodi's. Purchasing a BRODI costs 0.07 ETH.</p>
+                     <p className="text-2xl text-white my-6  Poppitandfinch">The Oracle was the most exiting graphically experimental newspaper cum magazine offering radically vibrant colors and kaleidoscopic color effects which is the signature feature of The Oracles of Binary Bodi
+</p>
                    </div>
                 </div>
+                
                 <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
                 <p className="text-blau Montserrat-Light text-2xl"> We are not pitching an NFT, but an understanding. </p>
                     <div className="mt-6 border-b-2 py-6">
@@ -102,23 +125,27 @@ export default function Home() {
                   <img className="lg:w-1/2 w-3/4" img src="images/4.png" alt="" width="200px" className="feature-image"/>   
             </div>
             </div>
-                     <p className="text-xl text-white my-6  Poppitandfinch"><span> Bodi aspires to connect with a philosophy of conquerors. You will be connected with every member of this crew, each having the same vision as you: to seize the elites of web3.. Our goal is to create a strong, ambitious community ready to conquer the lands and seas of the metaverse with us.</span></p>
+            <p className="text-2xl text-white my-6  Poppitandfinch"> Humans have always revolved their imagination around stories. Stories have been a part of our culture, tradition and even modern life. Binary Bodi is one such step towards bringing you a game that has a rich story and where you can earn while having fun.</p>
+                     <p className="text-2xl text-white my-6  Poppitandfinch"><span>We are desperately attemptting with  a handful of pathetically unequipped degen devs  to create a community in a social vacuum.
+                 </span></p>
                     </div>
                   </div>
                 </div>
-           <div className="flex items-center justify-between w-full border-b-2	pb-6">
+                <div className="flex items-center justify-between w-full border-b-2	pb-6">
             <a href="/home" className=""><img src="images/502.svg" width="108" alt="" className="logo-image" /></a>
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
-              <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
+                <button type="button" className="text-2xl Poppitandfinchsans text-white  m-6">Mint</button>
               <a href="/faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
               <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About US</a>
-              <a href="/broi" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Bodi</a>
-              <a href="https://linktr.ee/binarybodi" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Community</a>    
+              <a href="/province" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Province</a>
+              <a href="https://discord.gg/QtNPdpZKZE" className="text-2xl Poppitandfinchsans text-blau   m-6">Discord</a>
+              <a href="https://twitter.com/binarybodi" className="text-2xl Poppitandfinchsans text-blau  m-6">Twitter</a>
+              <a href="https://linktr.ee/binarybodi" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Communities</a>   
             </nav>
           </div>
         </div>
-        <p className="text-1xl text-white my-6  Poppitandfinch">All rights granted (c) <span className="text-blau text-1xl Poppitandfinchsans">BinaryBodi </span> Fork it  <a href="https://github.com/zibits/binarybodi" className="text-blau text-1xl Poppitandfinchsans">Github </a></p>
+        <p className="text-1xl text-white my-6  Poppitandfinch">All rights granted (c) <span className="text-blau text-1xl Poppitandfinchsans">Binary Bodi </span> Fork it  <a href="https://github.com/zibits/binarybodi" className="text-blau text-1xl Poppitandfinchsans">Github </a></p>
      </div>
        
     )
