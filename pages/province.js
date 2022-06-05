@@ -6,7 +6,7 @@ export default function Home() {
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
 
 <Head>
-                <title>Binary Bodi</title>
+                <title>Province | Binary Bodi</title>
                 <link rel="icon" href="/images/favicon-32x32.png" />
                 <meta property="og:title" content="BinaryBodi"  key="ogtitle" />
                 <meta property="og:description" content="Curated collection of 7777 Bodi NFTs on Ethereum" key="ogdesc" />
@@ -25,8 +25,8 @@ export default function Home() {
               <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
                 <a href="/home" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Home</a>
                 <a href="/mint" className="text-2xl Poppitandfinch text-white hover:text-black m-6">Mint</a>
-                <a href="/bodi" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Bodi</a>
-                <a href="/chapters" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Chapters</a>
+                <a href="/bodi" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Genesis</a>
+                <a href="/chapters" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Oracle</a>
                 <a href="faq" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
                 <a href="/roadmap" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
                 <a href="/about" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
