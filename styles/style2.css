@@ -1,47 +1,110 @@
 @font-face {
-font-family: 'Poppitandfinch';
-src: url('../fonts/Montserrat-UltraLight.ttf') format('opentype');
-font-weight: 200;
-font-style: normal;
-font-display: swap;
-}
-@font-face {
-font-family: 'Poppitandfinchsans';
-src: url('../fonts/Montserrat-UltraLight.ttf') format('opentype');
-font-weight: 200;
-font-style: normal;
-font-display: swap;
-}
-@font-face {
-font-family: 'Montserrat-Light';
-src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
-font-weight: 200;
-font-style: regular;
-font-display: swap;
+    font-family: 'Poppitandfinch';
+    src: url('../fonts/Montserrat-UltraLight.ttf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
 }
 
-p.detail { color:#66ff00;font-weight:bold;font-family:Calibri;font-size:20 }
-span.name { color:#fbcd00;font-weight:italic;font-family:Calibri;font-size:20 }
-w.detail { color:#ff00d4;font-weight:bold;font-family:Calibri;font-size:80 }
-i.detail { color:#66ff00;font-weight:italic;font-family:Calibri;font-size:20 }
+@font-face {
+    font-family: 'Poppitandfinchsans';
+    src: url('../fonts/Montserrat-UltraLight.ttf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url('../fonts/Roboto-Black.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url('../fonts/Roboto-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-Lig';
+    src: url('../fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../fonts/Roboto-Medium.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('../fonts/Roboto-Thin.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-ThinItalic';
+    src: url('../fonts/Roboto-ThinItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
 
 #bodyy {
     background-image: url('/images/bg new3.jpg');
     background-position: 0px 0px;
     background-size: cover;
     background-repeat: repeat;
-   
+
+}
+
+.roboto {
+    font-family: Roboto;
+    color: #f3f3f3;
 }
 
 .montserrat {
-    font-family: Montserrat-Light, sans-serif;
+    font-family: Roboto-Black;
 }
+
+.Montserrat-Light {
+    font-family: Roboto-Bold;
+}
+
 .Poppitandfinch {
-    font-family: Poppitandfinch, sans-serif;
+    font-family: Roboto-Thin;
 }
-  
+
 .Poppitandfinchsans {
-    font-family: Poppitandfinchsans, sans-serif;
+    font-family: Roboto-Lig;
 }
 
 .text-blau {
@@ -53,5 +116,10 @@ i.detail { color:#66ff00;font-weight:italic;font-family:Calibri;font-size:20 }
 }
 
 .bg-green {
-      background-color: rgb(175, 240, 71);
+    background-color: rgb(175, 240, 71);
+}
+
+.Roboto-Thin {
+    font-family: Roboto-Thin;
+    color: #b5ff09;
 }
