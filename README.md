@@ -7,3 +7,9 @@ The Oracle was the most exiting graphically experimental newspaper cum magazine 
 
 ## Metaverse Press Syndicate [MPS]
 MPS is a collective of members represented by , who hold ownership of a vault of crypto assets. MPS is fully governed by its members. It distributes news articles, columns, comic strips, and other features to The Oracle while offering reprint rights and grant permissions to other parties for republishing content of which they own/represent copyrights.The MPS is an agency that offers features from notable journalists and authorities as well as reliable and established cartoonists. Typical syndicated features are advice columns comic strips, humor columns, editorial opinion,critic's reviews, and gossip columns.In an innovative approach for an era without professional newspaper reporters, the Journal presented a narrative of shocking events in Boston to the outside world .
+
+The MPS is an agency that offers features from notable journalists and authorities as well as reliable and established cartoonists. Typical syndicated features are advice columns comic strips, humor columns, editorial opinion,critic's reviews, and gossip columns.In an innovative approach for an era without professional newspaper reporters, the Journal presented a narrative of shocking events in Boston to the outside
+
+Binary Bodi will decentralize the editorial group, once Genises Oracles Issues get published and till then issues have been published that were primarily produced by developers of Binary Bodi.
+
+The editorial collective not endorse a specific political line and welcomes voices from disparate strains of anti-authoritarian thought. The group also continues to endorse anarchism as a specific ideology, but embraces a more inclusive, yet still radical, anti-capitalist perspective. Continuing to cover environmental and anti-capitalist resistance
