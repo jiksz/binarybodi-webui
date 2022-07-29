@@ -1,3 +1,6 @@
 The Oracle is the first kind of Meta Magazine built completely on top of existing NFTs, reflecting the web3 culture; A holistic vision for psychoanalysis, seeking truth and enlightenment, combining psychoanalysis, Zen Buddhism, Eastern religion and Christian mysticism with yearningd and experience of the individual human psyche/soul ; the emergence of a generic spirituality.
+
+The Oracle is an experimental magazine built completely on top of NFTs, reflecting the web3 culture; The Oracle galvanize the contents using exsting NFTs, both text and Images, features commentary on meta stories, web3 cultures.
+
 An NFT Magazine collection consisting of Art work of 100+ creators, empowering collectors, creators and brands to partcipate in this counter culture movement. The oracle combined poetry,spirituality, and multicultural intersts with psychdelic design.
 The Oracle was the most exiting graphically experimental newspaper cum magazine offering radically vibrant colors and kaleidoscopic color effects which is the signature feature. The publications will be an experimental mutligradient design with highly spiritual content and were graphically sophisticated and adventuresome with intutive user expereinece and immense gameplay
