@@ -8,7 +8,7 @@ module.exports = {
   variants: {
     extend: {
       backgroundImage: theme => ({
-        'mayanpunk': "url('/images/BG2.jpg')",
+        'binarybodi': "url('/images/BG2.jpg')",
        })
 
     },
