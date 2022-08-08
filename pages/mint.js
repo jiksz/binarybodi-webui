@@ -105,7 +105,7 @@ export default function Mint() {
   return (
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
-        <title>MintBinary Bodi</title>
+        <title>Mint BinaryBodi</title>
         <link rel="icon" href="/images/fab.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/fav144.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/fab.ico" />
