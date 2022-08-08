@@ -214,7 +214,7 @@ export default function Mint() {
             <a href="/about" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
             <a href="https://discord.gg/QtNPdpZKZE" className="text-1xl Poppitandfinchsans text-blau   m-6">Discord</a>
             <a href="https://twitter.com/binarybodi" className="text-1xl Poppitandfinchsans text-blau  m-6">Twitter</a>
-            <a href="https://linktr.ee/binarybodi" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Communities</a>
+
           </nav>
         </div>
       </div>
