@@ -25,12 +25,12 @@ export default function Home() {
       </Head>
       <div >
         <div className="flex items-center justify-between w-full border-b-2	pb-6">
-          <a href="/home" className=""><img src="images/logobodi.png" width="108" alt="" className="logo-image" /></a>
+          <a href="/home" className=""><img src="images/logobodi.png" width="190" alt="" className="logo-image" /></a>
           <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
             <a href="/home" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
             <a href="/mint" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
-            <a href="/bodi" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Genesis</a>
-            <a href="/syndicate" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Syndicate </a>
+            <a href="/bodi" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Bodi</a>
+
             <a href="faq" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">FAQ</a>
             <a href="/roadmap" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Roadmap</a>
             <a href="/about" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
@@ -49,34 +49,34 @@ export default function Home() {
             <div className="mt-6 border-b-2 py-6">
               <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
                 <p className="text-xl text-white my-6  Poppitandfinch">
-                  The road map for Binary Bodi is collaborative and will be decided by Bodi holders. With imaginative ideas, adequate resources and coordination, we believe we can bring Binary Bodi to every vertical of popular culture!<br></br><br></br><br></br> Binary Bodi will become operational once the mint  period is over. Each Bodi-holder will be able to claim all future drops and contents for free. A collaborative social experiment for the cryptosphere. A members-only society  for the discerning and degenrative minds of crypto twitter. </p>
+                  The road map for Binary Bodi is collaborative and will be decided by Bodi holders. With imaginative ideas, adequate resources, and coordination, we believe we can bring Binary Bodi to every vertical of popular culture.<br></br><br></br><br></br>Binary Bodi will become operational once the mint period is over.Each Bodi-holder will be able to claim all future drops and contents for free.A collaborative social experiment for the crypto sphere.A members-only society for the discerning and degenerative minds of crypto Twitter. </p>
               </div>
             </div>
             <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
               <div className="lg:w-/2 w-/4">
                 <br></br><br></br>
-                <p className="text-blau Montserrat-Light text-2xl">Phase 1 | June 2022
+                <p className="text-blau Montserrat-Light text-2xl">Phase 1 | Q3 2022
                 </p>
-                <p className="text-xl text-white my-6  Poppitandfinch">Issuance of  Syndicate Pass.
+                <p className="text-xl text-white my-6  Poppitandfinch">Initalising MPS & Issuance of  Syndicate Pass.
                 </p>
-                <p className="text-blau Montserrat-Light text-2xl">Phase 2  |  Jully 2022
+                <p className="text-blau Montserrat-Light text-2xl">Phase 2  |  Q4 2022
                 </p>
-                <p className="text-xl text-white my-6  Poppitandfinch"> BinaryBodi Chapter#1 Release.
+                <p className="text-xl text-white my-6  Poppitandfinch"> Thematic UGC
                 </p>
-                <p className="text-blau Montserrat-Light text-2xl">Phase 3  | Q3 2022
+                <p className="text-blau Montserrat-Light text-2xl">Phase 3  | Q1 2023
                 </p>
-                <p className="text-xl text-white my-6  Poppitandfinch"> Full chapters and gameplay
+                <p className="text-xl text-white my-6  Poppitandfinch">  BinaryBodi Oracle
                 </p>
                 <p className="text-blau Montserrat-Light text-2xl">Phase 4 | Q1 2023
                 </p>
                 <p className="text-xl text-white my-6  Poppitandfinch">
-                  Native Social Market Place </p>
+                  BodiDAO with Soulbound Governance </p>
               </div>
             </div>
           </div>
         </div>
         <div className="flex items-center justify-between w-full border-b-2	pb-6">
-          <a href="/home" className=""><img src="images/logobodi.png" width="108" alt="" className="logo-image" /></a>
+          <a href="/home" className=""><img src="images/logobodi.png" width="190" alt="" className="logo-image" /></a>
           <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
             <a href="/home" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
             <a href="/mint" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Mint</a>
@@ -86,7 +86,7 @@ export default function Home() {
             <a href="/about" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">About</a>
 
             <a href="https://discord.gg/QtNPdpZKZE" className="text-1xl Poppitandfinchsans text-blau   m-6">Discord</a>
-            <a href="https://twitter.com/binarybodi" className="text-1xl Poppitandfinchsans text-blau  m-6">Twitter</a>
+
             <a href="https://linktr.ee/binarybodi" className="text-1xl Poppitandfinchsans text-white hover:text-black m-6">Communities</a>
           </nav>
         </div>
