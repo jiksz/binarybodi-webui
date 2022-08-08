@@ -62,18 +62,18 @@ export default function Home() {
 
           <div className="lg:w-/2 w-/2">
             <br></br>
-            <img className="lg:w-1/2 w-3/4" img src="images/bb.png" alt="" width="100px" className="feature-image" />
+            <img className="lg:w-1/2 w-3/4 feature-image" img src="images/bb.png" width="100px" />
             <h1 className="text-3xl montserrat text-blau ">Neohex</h1>
             <p className="text-1xl text-white my-6  Poppitandfinch">
               Founder, Developer and the Bodi.
             </p>
           </div>
-          <div className="lg:w-/2 w-/2">  <br></br> <img className="lg:w-1/2 w-3/4" img src="images/bb.png" alt="" width="100px" className="feature-image" />
+          <div className="lg:w-/2 w-/2">  <br></br> <img className="lg:w-1/2 w-3/4 feature-image" img src="images/bb.png" alt="" width="100px" />
             <h1 className="text-3xl montserrat text-blau ">Jiz</h1>
             <p className="text-1xl text-white my-6  Poppitandfinch">  Artist & Designer</p>
           </div>
           <div className="lg:w-/2 w-/2"><br></br>
-            <img className="lg:w-1/2 w-3/4" img src="images/bb.png" alt="" width="100px" className="feature-image" />
+            <img className="lg:w-1/2 w-3/4 feature-image" img src="images/bb.png" alt="" width="100px" />
             <h1 className="text-3xl montserrat text-blau ">Jikz</h1>
             <p className="text-1xl text-white my-6  Poppitandfinch">
               Degen Designer</p>
